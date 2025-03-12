@@ -1,0 +1,17 @@
+[
+  {
+    "title": "Book 1",
+    "author": "Author 1",
+    "availableQuantity": 3
+  },
+  {
+    "title": "Book 2",
+    "author": "Author 2",
+    "availableQuantity": 0
+  },
+  {
+    "title": "Book 3",
+    "author": "Author 3",
+    "availableQuantity": 5
+  }
+]
